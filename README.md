@@ -1,5 +1,5 @@
-# 💫 About Me:
-🟪 About Me:<br><br>⭒ Frontend Developer with focus and gaining experience in web application development. <br>⭒ Currently pursuing degree in Software Engineering and specializing in Angular, Typescript, React, and Python.<br>⭒ Certified and constantly updated on the latest technologies in the market.<br><br><br>
+# 🟪 About Me:
+Frontend Developer with focus and gaining experience in web application development. <br>⭒ Currently pursuing degree in Software Engineering and specializing in Angular, Typescript, React, and Python.<br>⭒ Certified and constantly updated on the latest technologies in the market.<br><br><br>
 
 
 ## 🌐 Socials:
